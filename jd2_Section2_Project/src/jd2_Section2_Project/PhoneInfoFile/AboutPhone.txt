@@ -1,0 +1,1 @@
+Phone [brand=1, model=1, serialNumber=1, memory=5.0, operatingSystem=IOS]
